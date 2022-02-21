@@ -1,0 +1,1 @@
+A simple dropdown logic in Javascript. Example page using tailwind and a grid layout. 
